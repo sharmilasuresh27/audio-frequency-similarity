@@ -25,13 +25,13 @@ to determine how similar they are.
 ## 📊 Output
 
 ### 1️⃣ Time Domain Comparison
-![Time Domain Output](time_domain_comparison.png)
+![Time Domain Output](time_domain_comparison.png.png)
 
 ### 2️⃣ Frequency Domain Comparison
-![Frequency Domain Output](frequency_domain_comparison.png)
+![Frequency Domain Output](frequency_domain_comparison.png.png)
 
 ### 3️⃣ Similarity Score (Terminal Output)
-![Terminal Output](terminal_output.png)
+![Terminal Output](terminal_output.png.png)
 
 ## How to Run
 ```bash
