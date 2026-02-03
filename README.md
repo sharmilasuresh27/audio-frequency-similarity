@@ -22,8 +22,16 @@ to determine how similar they are.
 - Frequency-domain graph showing both audio signals
 - Similarity score between the two audio files
 
-## Sample Output
-![Frequency Comparison](output.png)
+## 📊 Output
+
+### 1️⃣ Time Domain Comparison
+![Time Domain Output](time_domain_comparison.png)
+
+### 2️⃣ Frequency Domain Comparison
+![Frequency Domain Output](frequency_domain_comparison.png)
+
+### 3️⃣ Similarity Score (Terminal Output)
+![Terminal Output](terminal_output.png)
 
 ## How to Run
 ```bash
